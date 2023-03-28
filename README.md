@@ -1,4 +1,4 @@
-# TypeScript Example
+# React Native Crypto JS with Async Storage TypeScript Example
 
 <p>
   <!-- iOS -->
